@@ -36,13 +36,14 @@ That is it
 
 Now you will find a structure like this inside the saleslistener folder.
 
-catalyst.json	functions
+catalyst.json
+functions
 
 
 
 
 
-Cd functions
+cd functions
 
 
 
