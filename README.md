@@ -319,14 +319,13 @@ You can verify if the event triggers have been invoked or not by going to the Ev
 
 
  
-![Screenshot] (https://github.com/shankar-tester901/EventListener/blob/master/Screenshot%202020-01-07%20at%2012.05.00%16PM.png)
-
-
- 
-![Screenshot] (https://github.com/shankar-tester901/EventListener/blob/master/Screenshot%202020-01-07%20at%2012.05.00%20PM.png)
 
 
 
 
+![Screenshot](https://github.com/shankar-tester901/EventListener/blob/master/Screenshot%202020-01-07%20at%2012.05.00%20PM.png)
 
+
+
+![Screenshot](https://github.com/shankar-tester901/EventListener/blob/master/Screenshot%202020-01-07%20at%2012.05.16%20PM.png)
 
