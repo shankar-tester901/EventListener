@@ -180,59 +180,7 @@ Whatever you need to do, you have to refer these two parameters only. They are o
 The next step is to link the Sales Listener code that you have above to the Sales table. This is how you do it.
 
 
-![Screenshot](screenshot.png)
-
-
-
-<Insert Screenshot>
-
-
-
-Create New Rule
-
-
-
-Name
-
-
-
-Description
-
-
-
-Component
-
-                                                          Datastore                             Cache                                                                                       UserManagement                             Filestore                             Github                             Webapp                         
-
-Datastore
-
-
-
-Table Name
-
-                                                      DeliveriesSales
-
-×
-Sales
-Action
-
-                                                          Insert                             Update                             Delete                         
-
-×
-Insert
-Target Function
-
-listen_to_saleslisten_to_deliveries
-
-×
-listen_to_sales
-Save Cancel
-
-
-
-
-
-
+![Screenshot](https://github.com/shankar-tester901/EventListener/blob/master/Screenshot%202019-12-05%20at%2010.43.46%20AM.png)
 
 
 
