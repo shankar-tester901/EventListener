@@ -317,73 +317,14 @@ Wait for 10 mins and you will receive the email with the message - “A sale has
 
 You can verify if the event triggers have been invoked or not by going to the Event Listeners link. Click on any of the listeners.
 
-<insert snapshot pls>
+
+ 
+![Screenshot] (https://github.com/shankar-tester901/EventListener/blob/master/Screenshot%202020-01-07%20at%2012.05.00%16PM.png)
 
 
+ 
+![Screenshot] (https://github.com/shankar-tester901/EventListener/blob/master/Screenshot%202020-01-07%20at%2012.05.00%20PM.png)
 
-Number of Requests
-
-
-
-
-
-10
-
-0
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-10
-
-No. of Request : 6
-
-Started Time
-
-Execution Time(ms)
-
-Status
-
-Dec 26, 2019 10:47:51:652 AM
-
-1164
-
-Success
-
-Dec 26, 2019 10:37:07:656 AM
-
-1114
-
-Success
-
-Dec 26, 2019 10:37:06:674 AM
-
-955
-
-Success
-
-Dec 26, 2019 10:37:05:626 AM
-
-1019
-
-Success
-
-Dec 26, 2019 10:37:04:472 AM
-
-1138
-
-Success
 
 
 
