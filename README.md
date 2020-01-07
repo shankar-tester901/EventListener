@@ -1,12 +1,7 @@
 # EventListener
 Event-driven Programming using FaaS with Zoho Catalyst
 
-
-So till now we have worked on quite somethings.
-
-
-
-Let us now work on Event Listeners. Functions-as-a-Service are typically used for Event-driven Programming. So this is about Catalyst’s approach toward Event-driven programming.
+Functions-as-a-Service are typically used for Event-driven Programming. So this is about Catalyst’s approach toward Event-driven programming.
 
 Let us begin.
 
@@ -18,8 +13,10 @@ Imagine that when a sale happens, the details of the sale is entered into a tabl
 
 Fair enough ?
 
+So let us login to Catalyst at catalyst.zoho.com
 
-So make two tables first. So go to the Data Store link and create a table called Sales. Create 2 columns in it called Name and Qty.
+Let us make two tables first. 
+Go to the Data Store link and create a table called Sales. Create 2 columns in it called Name and Qty.
 
 Make another table called Deliveries. Create 3 columns in it called - name, Status and Email.
 
@@ -97,7 +94,11 @@ Then just click on Enter for the rest and voila!, you have a folder with some de
 
 shankarr-0701@shankarr-0701 listen_to_sales % ls
 
-catalyst-config.json	index.js		package-lock.json		node_modules		package.json
+catalyst-config.json
+index.js
+package-lock.json
+node_modules
+package.json
 
 Now let us proceed to put some substance in our index.js file. This is the heart of the process. This is the listener which will be invoked when some event happens. 
 
@@ -287,7 +288,11 @@ Then just click on Enter for the rest and voila!, you have a folder with some de
 
 shankarr-0701@shankarr-0701 listen_to_deliveries % ls
 
-catalyst-config.json	index.js		package-lock.json		node_modules		package.json
+catalyst-config.json
+index.js
+package-lock.json
+node_modules
+package.json
 
 Open the index.js file in the listen_to_deliveries folder and paste the following code :
 
