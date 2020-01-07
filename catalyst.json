@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "targets": [
+      "listen_to_events",
+      "listen_to_deliveries",
+      "listen_to_sales"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}
