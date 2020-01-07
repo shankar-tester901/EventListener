@@ -36,11 +36,8 @@ That is it
 
 Now you will find a structure like this inside the saleslistener folder.
 
-catalyst.json
-functions
-
-
-
+  catalyst.json
+  functions
 
 
 cd functions
@@ -95,11 +92,11 @@ Then just click on Enter for the rest and voila!, you have a folder with some de
 
 shankarr-0701@shankarr-0701 listen_to_sales % ls
 
-catalyst-config.json
-index.js
-package-lock.json
-node_modules
-package.json
+  catalyst-config.json
+  index.js
+  package-lock.json
+  node_modules
+  package.json
 
 Now let us proceed to put some substance in our index.js file. This is the heart of the process. This is the listener which will be invoked when some event happens. 
 
