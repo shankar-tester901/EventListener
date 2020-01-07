@@ -235,11 +235,11 @@ Then just click on Enter for the rest and voila!, you have a folder with some de
 
 shankarr-0701@shankarr-0701 listen_to_deliveries % ls
 
-catalyst-config.json
-index.js
-package-lock.json
-node_modules
-package.json
+- catalyst-config.json
+- index.js
+- package-lock.json
+- node_modules
+- package.json
 
 Open the index.js file in the listen_to_deliveries folder and paste the following code :
 
