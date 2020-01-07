@@ -180,6 +180,7 @@ Whatever you need to do, you have to refer these two parameters only. They are o
 The next step is to link the Sales Listener code that you have above to the Sales table. This is how you do it.
 
 
+![Screenshot](screenshot.png)
 
 
 
